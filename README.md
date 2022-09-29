@@ -1,1 +1,1 @@
-This is my git task directory
+This is the repository for my tasks from ALX Software Engineering program
